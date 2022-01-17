@@ -1,37 +1,26 @@
 ## Academia de Programación
 
-You can use the [editor on GitHub](https://github.com/IEEECISEcuador/academiaprogramacion.2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Es una iniciativa de la [Sociedad de Inteligencia Computacional de IEEE Sección Ecuador](https://www.facebook.com/IEEECISEcuador) co-organizado con la [Carrera de Computación](https://www.facebook.com/ComputacionUPSGYE) de la [Universidad Politécnica Salesiana del Ecuador](https://www.ups.edu.ec/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El capitulo profesional de la Sociedad y los capítulos estudiantiles a nivel nacional se encuentran, de manera conjunta, trabajando para la conformación de la Academia de Programación y decenas de estudiantes de secundaria puedan perfeccionar sus conocimientos a nivel de programación.
 
-### Markdown
+### Capítulo Profesional
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+En el capítulo profesional se encuentran miembros y no miembros trabajando para cumplir con el objetivo de este proyecto.
 
-```markdown
-Syntax highlighted code block
+El listado es el siguiente:
 
-# Header 1
-## Header 2
-### Header 3
+- Guillermo Pizarro, Universidad Politécnica Salesiana, miembro IEEE Senior CIS.
+- Miguel Botto, Universidad de Guayaquil, miembro IEEE CIS.
+- Félix Plúas, GRUPASA, miembro voluntario.
+- Cinthya, miembro voluntario. 
 
-- Bulleted
-- List
+### Capítulos Estudiantiles
 
-1. Numbered
-2. List
+En los capítulos estudiantiles se encuentran estudiantes universitarios de diferentes ciudades dispuestos a colaborar con el seguimiento de los estudiantes de la Academia.
 
-**Bold** and _Italic_ and `Code` text
+El listado es el siguiente:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IEEECISEcuador/academiaprogramacion.2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Montesdeoca Rodríguez Juan Carlos, Guayaquil, Universidad de Guayaquil (miembro IEEE CIS).
+- Marcos Jossue Bailón Guaranda, Guayaquil, Universidad de Guayaquil (miembro IEEE CIS).
+- David Enrique Torres Ochoa, Euito, ESPE (miembro IEEE CIS).
