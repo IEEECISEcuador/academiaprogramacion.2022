@@ -13,6 +13,14 @@ Esta academia está dirigida a los estudiantes de bachillerato que cumplan con l
 - Tener mucha motivación para crear cosas nuevas.
 - Que posea un computador con conexión a internet en casa.
 
+## Contenidos
+
+Los estudiantes que puedan acceder a la academia verán los siguientes contenidos:
+
+- Módulo 1: Algoritmos.
+- Módulo 2: Lenguaje de Programación.
+- Módulo 3: Casos Prácticos. 
+
 ### Fechas importantes para los postulantes
 
 Proceso de selección: 
