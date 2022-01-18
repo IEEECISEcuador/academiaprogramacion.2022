@@ -1,2 +1,2 @@
-# academiaprogramacion.2022
+# Academia de Programaciòn
 La Programación un camino hacia la creatividad.
