@@ -13,7 +13,7 @@ Esta academia está dirigida a los estudiantes de bachillerato que cumplan con l
 - Tener mucha motivación para crear cosas nuevas.
 - Que posea un computador con conexión a internet en casa.
 
-### Actividades principales
+### Actividades principales a los voluntarios
 
 Proceso de trabajo:
 
@@ -21,14 +21,15 @@ Proceso de trabajo:
 - Convocatoria para los asistentes de los instructores: estudiantes universitarios (21 de enero de 2022).
 - ELaboración de los materiales y recursos (febrero y marzo de 2022).
 
-### Fechas importantes para los estudiantes
+### Fechas importantes para los postulantes
 
 Proceso de selección: 
 
 - Fecha de convocatoria: 28 de febrero de 2022.
-- Fecha de finalización de convocatoria: 18 de marzo de 2022.
-- Fecha de notificación: 28 de febrero de 2022.
-- Fecha de inicio de la Academia: 4 de abril de 2022.
+- Fecha de finalización de convocatoria: 25 de marzo de 2022.
+- Entrevista con los pre-seleccionados: 28 de marzo al 8 de abril de 2022.
+- Fecha de notificación: 11 de abril al 15 de abril de 2022.
+- Fecha de inicio de la Academia: 25 de abril al 19 de agosto de 2022.
 
 ## IEEE Sociedad de Inteligencia Computacional
 
