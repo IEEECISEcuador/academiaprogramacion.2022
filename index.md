@@ -58,14 +58,28 @@ El listado es el siguiente:
 - Camilo Andrés Orrico Emme, Quito, ESPE.
 - Kleber Enrique Chavez Oscullo, Quito, ESPE.
 - Jeimy Marley Morales Sosa, Quito, ESPE.
-- Gabriel Misael Medranda Garcia, Guayaquil, Universidad de Guayaquil.
+- Gabriel Misael Medranda Garcia, Guayaquil, Universidad de Guayaquil (miembro IEEE CIS).
 - Alex German Chicaiza Altasig, Quito, ESPE.
 - Darwin Alexander Rodríguez Merchan, Guayaquil, Universidad de Guayaquil.
 - Roberto Alexander Bedon Guevara, Quito, ESPE.
 - Jimmy Ricardo Guanoluisa Castillo, Quito, EPN.
-- Xavier Omar Ortiz Padilla, Quito, ESPE. 
+- Xavier Omar Ortiz Padilla, Quito, ESPE (miembro IEEE CIS). 
 
-### Actividades principales a los voluntarios
+### Actividades principales de los voluntarios
+
+Profesionales:
+- Grabar videos para las clases asíncronas.
+
+Estudiantes Universitarios (asistentes académicos):
+- Implementar código con ejemplos y sus respectivos diagramas de los algoritmos utilizados.
+- Elaborar el material didáctico.
+- Sesiones síncronas con los estudiantes para aclarar alguna duda.
+
+Estudiantes Universitarios (redes sociales):
+- Elaborar material para publicar en las redes sociales.
+- Publicación continua de las actividades varias.
+
+### Planificación de las actividades
 
 Proceso de trabajo:
 
