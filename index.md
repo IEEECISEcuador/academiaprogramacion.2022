@@ -13,7 +13,7 @@ Esta academia está dirigida a los estudiantes de bachillerato que cumplan con l
 - Tener mucha motivación para crear cosas nuevas.
 - Que posea un computador con conexión a internet en casa.
 
-## Actividades principales
+### Actividades principales
 
 Proceso de trabajo:
 
@@ -21,7 +21,7 @@ Proceso de trabajo:
 - Convocatoria para los asistentes de los instructores: estudiantes universitarios (21 de enero de 2022).
 - ELaboración de los materiales y recursos (febrero y marzo de 2022).
 
-## Fechas importantes para los estudiantes
+### Fechas importantes para los estudiantes
 
 Proceso de selección: 
 
@@ -30,11 +30,11 @@ Proceso de selección:
 - Fecha de notificación: 28 de febrero de 2022.
 - Fecha de inicio de la Academia: 4 de abril de 2022.
 
-# IEEE Sociedad de Inteligencia Computacional
+## IEEE Sociedad de Inteligencia Computacional
 
 El capitulo profesional de la Sociedad y los capítulos estudiantiles a nivel nacional se encuentran, de manera conjunta, trabajando para la conformación de la Academia de Programación y decenas de estudiantes de secundaria puedan perfeccionar sus conocimientos a nivel de programación.
 
-## Capítulo Profesional
+### Capítulo Profesional
 
 En el capítulo profesional se encuentran personas gracuadas comprometidas, miembros y no miembros, trabajando para cumplir con el objetivo de este proyecto.
 
@@ -45,7 +45,7 @@ El listado es el siguiente:
 - Félix Plúas, GRUPASA, miembro voluntario.
 - Cynthia Barcenes Llanos, miembro voluntaria. 
 
-## Capítulos Estudiantiles
+### Capítulos Estudiantiles
 
 En los capítulos estudiantiles se encuentran estudiantes universitarios de diferentes ciudades dispuestos a colaborar con el seguimiento de los estudiantes de la Academia.
 
