@@ -13,14 +13,6 @@ Esta academia está dirigida a los estudiantes de bachillerato que cumplan con l
 - Tener mucha motivación para crear cosas nuevas.
 - Que posea un computador con conexión a internet en casa.
 
-### Actividades principales a los voluntarios
-
-Proceso de trabajo:
-
-- Convocatoria para los instructores: profesionales graduados (15 de enero de 2022).
-- Convocatoria para los asistentes de los instructores: estudiantes universitarios (21 de enero de 2022).
-- ELaboración de los materiales y recursos (febrero y marzo de 2022).
-
 ### Fechas importantes para los postulantes
 
 Proceso de selección: 
@@ -64,3 +56,11 @@ El listado es el siguiente:
 - Roberto Alexander Bedon Guevara, Quito, ESPE.
 - Jimmy Ricardo Guanoluisa Castillo, Quito, EPN.
 - Xavier Omar Ortiz Padilla, Quito, ESPE. 
+
+### Actividades principales a los voluntarios
+
+Proceso de trabajo:
+
+- Convocatoria para los instructores: profesionales graduados (15 de enero de 2022).
+- Convocatoria para los asistentes de los instructores: estudiantes universitarios (21 de enero de 2022).
+- ELaboración de los materiales y recursos (febrero y marzo de 2022).
